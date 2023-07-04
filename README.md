@@ -40,14 +40,6 @@ python app.py
 
 3. Use the provided interface to add books, search for books, and view book details.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-_Example of the library management application homepage._
-
-![Screenshot 2](screenshots/screenshot2.png)
-_Example of the book search results._
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
